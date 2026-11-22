@@ -1,0 +1,13 @@
+{
+  "name": "ai-insight",
+  "version": "0.1.0",
+  "description": "Share a video. It becomes a skill your agent can query. Open-source insight graph for AI agents (CLI + MCP).",
+  "type": "module",
+  "bin": { "ai-insight": "bin/ai-insight.js" },
+  "files": ["bin", "src"],
+  "engines": { "node": ">=18" },
+  "keywords": ["ai-agents", "mcp", "knowledge-graph", "claude-code", "agent-skills", "youtube", "instagram", "memory"],
+  "repository": { "type": "git", "url": "git+https://github.com/yassiEmp/ai-insight.git" },
+  "author": "Yassi Yari (@yassi_yari)",
+  "license": "MIT"
+}
