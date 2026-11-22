@@ -1,0 +1,736 @@
+{
+  "version": 1,
+  "nodes": {
+    "source:c52c369adf": {
+      "id": "source:c52c369adf",
+      "type": "source",
+      "url": "https://www.instagram.com/reel/DfGhqQvpiIR/",
+      "title": "Local SEO stack",
+      "author": "@camden.weup",
+      "kind": "transcript",
+      "addedAt": "2026-11-22T16:30:50.172Z"
+    },
+    "domain:search-engine-optimization": {
+      "id": "domain:search-engine-optimization",
+      "type": "domain",
+      "name": "Search Engine Optimization"
+    },
+    "skill:local-seo-for-small-businesses": {
+      "id": "skill:local-seo-for-small-businesses",
+      "type": "skill",
+      "name": "Local SEO for small businesses",
+      "domain": "Search Engine Optimization",
+      "description": "Strategies and tools to improve search engine visibility for local businesses.",
+      "updatedAt": "2026-11-22T16:30:52.306Z"
+    },
+    "insight:1ab733f366": {
+      "id": "insight:1ab733f366",
+      "type": "insight",
+      "text": "Perform keyword research using Semrush and Google Ads Keyword Planner.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Keyword Research"
+      ]
+    },
+    "insight:062a58ab19": {
+      "id": "insight:062a58ab19",
+      "type": "insight",
+      "text": "Track keyword trends using Google Trends.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Keyword Research"
+      ]
+    },
+    "insight:d405291fb2": {
+      "id": "insight:d405291fb2",
+      "type": "insight",
+      "text": "Spy on competitors' website H1 tags, titles, descriptions, and lengths using Detailed SEO.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Competitor Analysis"
+      ]
+    },
+    "insight:744078f9b4": {
+      "id": "insight:744078f9b4",
+      "type": "insight",
+      "text": "Analyze competitors' Google Business Profile categories, services, and photo counts using PlePer.",
+      "how": "Use PlePer to see primary/secondary categories, number of services, and number of photos.",
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Competitor Analysis",
+        "Google Business Profile"
+      ]
+    },
+    "insight:6ad515e6c6": {
+      "id": "insight:6ad515e6c6",
+      "type": "insight",
+      "text": "Build websites using Claude Code.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Website Development"
+      ]
+    },
+    "insight:bf4e8740d0": {
+      "id": "insight:bf4e8740d0",
+      "type": "insight",
+      "text": "Host websites using Cloudflare.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Hosting"
+      ]
+    },
+    "insight:1b2f19c04e": {
+      "id": "insight:1b2f19c04e",
+      "type": "insight",
+      "text": "Track local search results over time using LeadSnap.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Rank Tracking"
+      ]
+    },
+    "insight:6cab4ce32d": {
+      "id": "insight:6cab4ce32d",
+      "type": "insight",
+      "text": "Secure guest posts using QGP.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Link Building"
+      ]
+    },
+    "insight:8de42a8ec0": {
+      "id": "insight:8de42a8ec0",
+      "type": "insight",
+      "text": "Distribute press releases using PR Underground.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Link Building",
+        "PR"
+      ]
+    },
+    "insight:51b0d3f5fe": {
+      "id": "insight:51b0d3f5fe",
+      "type": "insight",
+      "text": "Obtain backlinks from local sources like the Chamber of Commerce or local sports leagues.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tactic",
+        "Link Building"
+      ]
+    },
+    "insight:02bdd3cca8": {
+      "id": "insight:02bdd3cca8",
+      "type": "insight",
+      "text": "Track and index website performance using Google Search Console.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Analytics",
+        "Indexing"
+      ]
+    },
+    "insight:6859529d32": {
+      "id": "insight:6859529d32",
+      "type": "insight",
+      "text": "Optimize each page to rank using PageOptimizer Pro.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "On-page SEO",
+        "Content Optimization"
+      ]
+    },
+    "source:1d5ea4c7c5": {
+      "id": "source:1d5ea4c7c5",
+      "type": "source",
+      "url": "https://www.instagram.com/reel/Dfk9FlGP7DY/",
+      "title": "ChatGPT business profiles",
+      "author": "@edward.builds",
+      "kind": "transcript",
+      "addedAt": "2026-11-22T16:30:52.305Z"
+    },
+    "insight:c1ebe3c482": {
+      "id": "insight:c1ebe3c482",
+      "type": "insight",
+      "text": "Claim your business profile within ChatGPT's Business Hub to enhance visibility and interaction with potential customers.",
+      "how": "Navigate to chatgpt.com/business-hub, search for your business, and click the plus button to add it.",
+      "quote": "You can claim your business, keep everything up to date, get insights.",
+      "at": null,
+      "tags": [
+        "Tool",
+        "ChatGPT",
+        "Business Hub"
+      ]
+    },
+    "insight:0486c6a8fa": {
+      "id": "insight:0486c6a8fa",
+      "type": "insight",
+      "text": "Utilize ChatGPT Business Agents to answer customer questions and help them explore your offerings directly within ChatGPT.",
+      "how": "Once your business is claimed, the business agent can be configured to interact with users.",
+      "quote": "Businesses can interact with users via business agents.",
+      "at": null,
+      "tags": [
+        "Tool",
+        "ChatGPT",
+        "Business Agent"
+      ]
+    },
+    "insight:d15ee98ca4": {
+      "id": "insight:d15ee98ca4",
+      "type": "insight",
+      "text": "Monitor insights from your ChatGPT business profile, including mentions, website clicks, and discovery topics, to understand customer engagement.",
+      "how": "The Business Hub provides data on common themes in conversations where your website is cited.",
+      "quote": "Insights you get: number of mentions, website clicks, discovery topics—common themes across conversations where the website is cited.",
+      "at": null,
+      "tags": [
+        "Analytics",
+        "ChatGPT",
+        "Business Hub"
+      ]
+    },
+    "source:5a7f571ca8": {
+      "id": "source:5a7f571ca8",
+      "type": "source",
+      "url": "https://www.instagram.com/reel/Df--4CtAgrf/",
+      "title": "Sites that make AI-built websites look good",
+      "author": "@hugomxnning",
+      "kind": "transcript",
+      "addedAt": "2026-11-22T16:30:55.549Z"
+    },
+    "domain:design": {
+      "id": "domain:design",
+      "type": "domain",
+      "name": "Design"
+    },
+    "skill:giving-ai-design-taste": {
+      "id": "skill:giving-ai-design-taste",
+      "type": "skill",
+      "name": "Giving AI design taste",
+      "domain": "Design",
+      "description": "Strategies and resources to enhance the aesthetic quality and design sophistication of AI-generated content and websites.",
+      "updatedAt": "2026-11-22T16:30:58.563Z"
+    },
+    "insight:2fbe705e04": {
+      "id": "insight:2fbe705e04",
+      "type": "insight",
+      "text": "Collect inspiration from specialized websites to improve the design quality of AI-built websites.",
+      "how": "Use sites like 21st.dev, Originkit, and Spell UI for components; Kawaii, Kinetics, and Animation Dictionary for text animation; Fontshare, Fonts In Use, and Fontesk for fonts.",
+      "quote": "The people who are getting the best AI websites and designs are not better at prompting or have some special skill. They're better at collecting inspiration.",
+      "at": null,
+      "tags": [
+        "inspiration",
+        "design tools",
+        "AI design"
+      ]
+    },
+    "insight:17fc4116d1": {
+      "id": "insight:17fc4116d1",
+      "type": "insight",
+      "text": "Utilize specific platforms for 3D and scroll website inspiration.",
+      "how": "Explore Scrolltide, GetLayers, and MotionSites for ideas on 3D and scroll effects.",
+      "quote": null,
+      "at": null,
+      "tags": [
+        "3D design",
+        "scroll effects",
+        "design tools"
+      ]
+    },
+    "insight:801dd12005": {
+      "id": "insight:801dd12005",
+      "type": "insight",
+      "text": "Find color palettes and schemes using dedicated inspiration sites.",
+      "how": "Browse Pinterest and Coolors for color ideas.",
+      "quote": null,
+      "at": null,
+      "tags": [
+        "color palette",
+        "design tools"
+      ]
+    },
+    "insight:17813d8e1f": {
+      "id": "insight:17813d8e1f",
+      "type": "insight",
+      "text": "Gather inspiration for website sections and detailed elements.",
+      "how": "Check Unsection, details.so, and Supahero for section and detail design ideas.",
+      "quote": null,
+      "at": null,
+      "tags": [
+        "website sections",
+        "design details",
+        "design tools"
+      ]
+    },
+    "insight:63294d4b10": {
+      "id": "insight:63294d4b10",
+      "type": "insight",
+      "text": "Discover diverse background designs for websites.",
+      "how": "Visit backgrounds.supply Freebies, Gradient Lab, and Super Visuals for background inspiration.",
+      "quote": null,
+      "at": null,
+      "tags": [
+        "backgrounds",
+        "design tools"
+      ]
+    },
+    "insight:afca5a24b0": {
+      "id": "insight:afca5a24b0",
+      "type": "insight",
+      "text": "Seek general design inspiration from broad platforms.",
+      "how": "Use Pinterest, Awwwards, and curated.design for overall design ideas.",
+      "quote": null,
+      "at": null,
+      "tags": [
+        "general design",
+        "inspiration",
+        "design tools"
+      ]
+    },
+    "insight:888536748a": {
+      "id": "insight:888536748a",
+      "type": "insight",
+      "text": "Source sound effects for UI elements from specialized sites.",
+      "how": "Explore UI SFX and Bencho for sound inspiration.",
+      "quote": null,
+      "at": null,
+      "tags": [
+        "sound design",
+        "UI/UX",
+        "design tools"
+      ]
+    },
+    "source:ae2fd0fdfb": {
+      "id": "source:ae2fd0fdfb",
+      "type": "source",
+      "url": "https://www.instagram.com/reel/De4EwvahdMl/",
+      "title": "6 sites to give AI taste",
+      "author": "@itsmariahbrunner",
+      "kind": "transcript",
+      "addedAt": "2026-11-22T16:30:58.563Z"
+    },
+    "insight:4d7fe44d31": {
+      "id": "insight:4d7fe44d31",
+      "type": "insight",
+      "text": "Use Prompt Motion to find motion graphics with accompanying prompts and skills to guide AI.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Motion Graphics",
+        "AI Prompting"
+      ]
+    },
+    "insight:eedef2d371": {
+      "id": "insight:eedef2d371",
+      "type": "insight",
+      "text": "Leverage Eyecandy for creative video techniques, using its examples and effect names to precisely describe desired outcomes to AI.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Video Editing",
+        "AI Prompting"
+      ]
+    },
+    "insight:40da379e69": {
+      "id": "insight:40da379e69",
+      "type": "insight",
+      "text": "Explore React Bits for useful animated texts, backgrounds, and website components to inform AI design choices.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Web Design",
+        "Animation"
+      ]
+    },
+    "insight:aad010b8ee": {
+      "id": "insight:aad010b8ee",
+      "type": "insight",
+      "text": "Consult Motion Sites for different website designs with prompts to use as starting points for AI-generated layouts.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Web Design",
+        "AI Prompting"
+      ]
+    },
+    "insight:1ff82b3fb1": {
+      "id": "insight:1ff82b3fb1",
+      "type": "insight",
+      "text": "Refer to Savee for visual references when you have a general idea of wanting something good but lack a specific visual direction.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Design Inspiration",
+        "Visual Reference"
+      ]
+    },
+    "insight:5bed5eef30": {
+      "id": "insight:5bed5eef30",
+      "type": "insight",
+      "text": "Study launch films, animations, and motion designs on Motionographer to enhance AI's understanding of sophisticated motion design.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "Tool",
+        "Motion Design",
+        "Animation"
+      ]
+    },
+    "insight:05e134356c": {
+      "id": "insight:05e134356c",
+      "type": "insight",
+      "text": "Upload a few chosen references to your preferred AI tool and be very specific about what you like about them to guide the AI effectively.",
+      "how": null,
+      "quote": null,
+      "at": null,
+      "tags": [
+        "AI Prompting",
+        "Specificity",
+        "Reference"
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "skill:local-seo-for-small-businesses",
+      "rel": "in",
+      "to": "domain:search-engine-optimization"
+    },
+    {
+      "from": "insight:1ab733f366",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:1ab733f366",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:062a58ab19",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:062a58ab19",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:d405291fb2",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:d405291fb2",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:744078f9b4",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:744078f9b4",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:6ad515e6c6",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:6ad515e6c6",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:bf4e8740d0",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:bf4e8740d0",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:1b2f19c04e",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:1b2f19c04e",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:6cab4ce32d",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:6cab4ce32d",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:8de42a8ec0",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:8de42a8ec0",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:51b0d3f5fe",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:51b0d3f5fe",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:02bdd3cca8",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:02bdd3cca8",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:6859529d32",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:6859529d32",
+      "rel": "from",
+      "to": "source:c52c369adf"
+    },
+    {
+      "from": "insight:c1ebe3c482",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:c1ebe3c482",
+      "rel": "from",
+      "to": "source:1d5ea4c7c5"
+    },
+    {
+      "from": "insight:0486c6a8fa",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:0486c6a8fa",
+      "rel": "from",
+      "to": "source:1d5ea4c7c5"
+    },
+    {
+      "from": "insight:d15ee98ca4",
+      "rel": "part_of",
+      "to": "skill:local-seo-for-small-businesses"
+    },
+    {
+      "from": "insight:d15ee98ca4",
+      "rel": "from",
+      "to": "source:1d5ea4c7c5"
+    },
+    {
+      "from": "skill:giving-ai-design-taste",
+      "rel": "in",
+      "to": "domain:design"
+    },
+    {
+      "from": "insight:2fbe705e04",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:2fbe705e04",
+      "rel": "from",
+      "to": "source:5a7f571ca8"
+    },
+    {
+      "from": "insight:17fc4116d1",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:17fc4116d1",
+      "rel": "from",
+      "to": "source:5a7f571ca8"
+    },
+    {
+      "from": "insight:801dd12005",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:801dd12005",
+      "rel": "from",
+      "to": "source:5a7f571ca8"
+    },
+    {
+      "from": "insight:17813d8e1f",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:17813d8e1f",
+      "rel": "from",
+      "to": "source:5a7f571ca8"
+    },
+    {
+      "from": "insight:63294d4b10",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:63294d4b10",
+      "rel": "from",
+      "to": "source:5a7f571ca8"
+    },
+    {
+      "from": "insight:afca5a24b0",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:afca5a24b0",
+      "rel": "from",
+      "to": "source:5a7f571ca8"
+    },
+    {
+      "from": "insight:888536748a",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:888536748a",
+      "rel": "from",
+      "to": "source:5a7f571ca8"
+    },
+    {
+      "from": "insight:4d7fe44d31",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:4d7fe44d31",
+      "rel": "from",
+      "to": "source:ae2fd0fdfb"
+    },
+    {
+      "from": "insight:eedef2d371",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:eedef2d371",
+      "rel": "from",
+      "to": "source:ae2fd0fdfb"
+    },
+    {
+      "from": "insight:40da379e69",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:40da379e69",
+      "rel": "from",
+      "to": "source:ae2fd0fdfb"
+    },
+    {
+      "from": "insight:aad010b8ee",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:aad010b8ee",
+      "rel": "from",
+      "to": "source:ae2fd0fdfb"
+    },
+    {
+      "from": "insight:1ff82b3fb1",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:1ff82b3fb1",
+      "rel": "from",
+      "to": "source:ae2fd0fdfb"
+    },
+    {
+      "from": "insight:5bed5eef30",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:5bed5eef30",
+      "rel": "from",
+      "to": "source:ae2fd0fdfb"
+    },
+    {
+      "from": "insight:05e134356c",
+      "rel": "part_of",
+      "to": "skill:giving-ai-design-taste"
+    },
+    {
+      "from": "insight:05e134356c",
+      "rel": "from",
+      "to": "source:ae2fd0fdfb"
+    }
+  ]
+}
